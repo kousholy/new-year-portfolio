@@ -1,0 +1,25 @@
+.banner{
+    margin: 0px 30px;
+    background-image: url(../images/banner/banner3.png);
+    width: 1600px;
+    height: 808px;
+    display: block;
+    text-align-last: right;}
+
+
+.title{
+padding: 300px 230px 364px 845px;
+
+}
+
+.banner-title{
+    font-size: 50px;
+    font-weight: 600;
+    line-height: 76px;
+    text-align: justify;
+    color: #FFFFFF;
+    
+
+.banner-description{
+
+}
